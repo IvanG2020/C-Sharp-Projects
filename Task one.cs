@@ -2,7 +2,7 @@ namespace Daily_Report_Tech_Academy
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
 // Welcoming message
             Console.WriteLine("The Tech Academy");
