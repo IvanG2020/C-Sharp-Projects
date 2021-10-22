@@ -33,7 +33,7 @@ class Program
 
             short temperatureOnMars = -431;
 
-            string myName = "Jesse"
+            string myName = "Jesse";
 
             Console.WriteLine(questionMark);
             Console.ReadLine();
