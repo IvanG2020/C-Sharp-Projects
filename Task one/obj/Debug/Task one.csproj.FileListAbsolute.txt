@@ -1,0 +1,7 @@
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\bin\Debug\Task one.exe.config
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\bin\Debug\Task one.exe
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\bin\Debug\Task one.pdb
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\obj\Debug\Task one.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\obj\Debug\Task one.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\obj\Debug\Task one.exe
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\Task one\obj\Debug\Task one.pdb
