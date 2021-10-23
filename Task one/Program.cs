@@ -10,55 +10,42 @@ namespace Task_one
     {
         static void Main(string[] args)
         {
-            // Welcoming message
-            Console.WriteLine("The Tech Academy");
-            Console.WriteLine("Student Daily Report");
+            //Starting text
+            string rows = "The Tech Academy\r\nStudent Daily Report\r\nPress Enter to Begin";
+            Console.WriteLine(rows);
             Console.ReadLine();
-    
-            //First Question asking your name
+            // Asking for name
             Console.WriteLine("What is your name?");
-            string yourName = Console.ReadLine();
-            Console.WriteLine("Your name is: " + yourName);
-            
-
-            // What course have you reached
-            Console.WriteLine("What Course are you on?");
+            string name = Console.ReadLine();
+            Console.ReadLine();
+            // what course are you attending
+            Console.WriteLine("What course are you on?");
             string course = Console.ReadLine();
-            Console.WriteLine("The course your in is: " + course);
-            
-
-            // what page of the course are you on?
-            Console.WriteLine("What Page Number?");
-            string page = Console.ReadLine();
-            Console.WriteLine("The page you are on is: " + page);
-            
-
-            // Are there any questions for intructors
-            Console.WriteLine("Do you need help with anything? please answer true or false");
-            string help = Console.ReadLine();
-            Console.WriteLine("you need help with: " + help);
-            
-
-            // Detailed question
-            Console.WriteLine("Were there any posistive experiences you'd like to share? Please give specific.");
-            string question = Console.ReadLine();
-            Console.WriteLine("you need help with: " + question);
-            
-
-
-            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
-            string feedback = Console.ReadLine();
-            Console.WriteLine("your Feedback is: " + feedback);
-            
-
+            Console.ReadLine();
+            // what page of that course are you on
+            Console.WriteLine("What page number?");
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
+            Console.ReadLine();
+            //a bool is used
+            Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
+            bool needHelp = Boolean.Parse("true");
+            bool noHelp = Boolean.Parse("false");
+            Console.ReadLine();
+            // string
+            Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
+            string experiences = Console.ReadLine();
+            Console.ReadLine();
+            // is there any feedback from user
+            Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
+            string feedBack = Console.ReadLine();
+            Console.ReadLine();
+            // how many hours did a student study
             Console.WriteLine("How many hours did you study today?");
-            string hours = Console.ReadLine();
-            Console.WriteLine("you spent : " + hours + "hours on your work today");
-            
-
-
-            // Printing Final message
-            Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great Day!");
+            int studyTime = Convert.ToInt32(Console.ReadLine());
+            Console.ReadLine();
+            // final message to student
+            string endMessage = "Thank you for your answers. An Instructor will respond to this shortly. Have a great day!";
+            Console.WriteLine(endMessage);
             Console.ReadLine();
         }
     }
