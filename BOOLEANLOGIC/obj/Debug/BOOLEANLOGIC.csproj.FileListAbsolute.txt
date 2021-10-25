@@ -5,3 +5,10 @@ C:\Users\root\source\repos\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.csproj.AssemblyRe
 C:\Users\root\source\repos\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.csproj.CoreCompileInputs.cache
 C:\Users\root\source\repos\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.exe
 C:\Users\root\source\repos\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.pdb
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\bin\Debug\BOOLEANLOGIC.exe.config
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\bin\Debug\BOOLEANLOGIC.exe
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\bin\Debug\BOOLEANLOGIC.pdb
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.exe
+C:\Users\root\Documents\GitHub\-C-Sharp-Projects\BOOLEANLOGIC\obj\Debug\BOOLEANLOGIC.pdb
