@@ -34,23 +34,23 @@ namespace Task_one
 
             //requesting input of help needed? boolian would be done to perform the data type statement
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
-            bool isHelpNeeded = Convert.ToBoolean(Console.ReadLine());
-            bool helpIsNeeded = true;
-            bool helpIsNotNeeded = false;
+             bool helpIsNeeded = Convert.ToBoolean(Console.ReadLine());
 
-            //if 
-            if (helpIsNeeded)
+
+           
+            if (helpIsNeeded == true)
             {
-                Console.WriteLine("Student needs help! " + helpIsNeeded); //returns our boolean statement as true help is needed
-                Console.ReadLine();
+                 Console.WriteLine("Student needs help! "); //returns our boolean statement as true help is needed
+                 //Console.ReadLine();
 
-            }
-            if (helpIsNotNeeded)
-            {
-                Console.WriteLine("Student does not need help! " + helpIsNotNeeded); //returns boolean statement as false does not need help
-                Console.ReadLine();
+             }
+             else
+             {
+                 Console.WriteLine("Student does not need help! "); //returns boolean statement as false does not need help
+                 Console.ReadLine();
 
-            }
+             }
+
 
 
             //requesting input 
