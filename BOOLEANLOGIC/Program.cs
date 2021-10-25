@@ -66,18 +66,25 @@ namespace BOOLEANLOGIC
             //Console.WriteLine(true ^ false);
             //Console.WriteLine(false ^ false);
 
+
+
+
             // What is your age
             Console.WriteLine("What is your age?");
             string age = Console.ReadLine();
             int ageOne = Convert.ToInt32(age);
             Console.ReadLine();
 
-            //Has the client had a Dui Before
-            Console.WriteLine("Have you ever had a DUI? Please answer \"true\" or \"false\"");
-            bool dui = Boolean.Parse("true");
-            bool noDui = Boolean.Parse("false");
-            Console.ReadLine();
+            // //requesting input of help needed? boolian would be done to perform the data type statement returning true or false
+             bool dui = Convert.ToBoolean(Console.ReadLine());
+             //if statement
+             if (dui == true)
+             {
+                 Console.WriteLine("Client has recent DUI's! "); //returns our boolean statement as true help is needed
+                 Console.ReadLine();
 
+             }
+           
             // How many speeding tickets has a client obtained
             Console.WriteLine("How many speeding tickets do you have?");
             string tickets = Console.ReadLine();

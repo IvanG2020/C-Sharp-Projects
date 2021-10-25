@@ -84,13 +84,13 @@ namespace MathAndComparisonOperators
 
             //Annual salary for Person 1
             Console.WriteLine("Annual salary for Person 1");
-            decimal salaryOne = payRate1 * hours1;
+            decimal salaryOne = payRate1 * hours1 * 12;
             Console.WriteLine("Annual salary of person 1 is " + salaryOne);
             Console.ReadLine();
 
             //Annual salary for person 2 
             Console.WriteLine("Annual salary for Person 2");
-            decimal salaryTwo = payRate22 * hours22;
+            decimal salaryTwo = payRate22 * hours22 * 12;
             Console.WriteLine("Annual salary of person 2 is " + salaryTwo);
             Console.ReadLine();
 
