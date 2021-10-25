@@ -96,7 +96,7 @@ namespace BOOLEANLOGIC
             int speedingTickets = Convert.ToInt32(tickets);
             Console.ReadLine();
 
-            if (ageOne >= 15 && Dui && speedingTickets >= 3)
+            if (ageOne > 15 && Dui && speedingTickets <= 3)
             {
                 Console.WriteLine("You are qualified");
                 Console.ReadLine();
