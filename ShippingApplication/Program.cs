@@ -47,7 +47,7 @@ namespace ShippingApplication
                 System.Environment.Exit(1);
             }
 
-            decimal sum = packageWeight * (packageHeight + packageLength + packageWidth) / 100m;
+            decimal sum = packageWeight * (packageHeight * packageLength * packageWidth) / 100m;
             Console.WriteLine("Your estimated total for shipping this package is: $" + sum);
             Console.ReadLine();
         }
