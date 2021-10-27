@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\ArraysListsApplication\bin\Debug\ArraysListsApplication.exe.config
+C:\Users\root\source\repos\ArraysListsApplication\bin\Debug\ArraysListsApplication.exe
+C:\Users\root\source\repos\ArraysListsApplication\bin\Debug\ArraysListsApplication.pdb
+C:\Users\root\source\repos\ArraysListsApplication\obj\Debug\ArraysListsApplication.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\ArraysListsApplication\obj\Debug\ArraysListsApplication.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\ArraysListsApplication\obj\Debug\ArraysListsApplication.exe
+C:\Users\root\source\repos\ArraysListsApplication\obj\Debug\ArraysListsApplication.pdb
