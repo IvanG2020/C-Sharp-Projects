@@ -9,7 +9,10 @@ namespace ArraysListsApplication
     class Program
     {
         static void Main(string[] args)
+
         {
+            Console.WriteLine("Please select a number 1-5.");
+
             //Declaring single dimensional array
             string[] Books = new string[5];
             Books[0] = "C#";
@@ -28,24 +31,6 @@ namespace ArraysListsApplication
                 Console.Write("{0}\t", Books[i]);
             }
             Console.ReadLine();
-
-        }
-
-        static void OneDimensionalArray()
-        {
-            int[] grades = new int[8];
-
-            grades[0] = 57;
-            grades[1] = 60;
-            grades[2] = 68;
-            grades[3] = 72;
-            grades[4] = 65;
-            grades[5] = 75;
-            grades[6] = 81;
-            grades[7] = 84;
-
-            WriteOneDimensionalArrayToScreen(grades);
-
 
         }
 
