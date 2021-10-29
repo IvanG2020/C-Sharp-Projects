@@ -12,6 +12,8 @@ namespace ArraysListsApplication
         {
             try
             {
+                //one-dimensional Array of strings. Ask the user to select an index of the Array
+
                 Console.WriteLine("Select an index from 0 to 4. \nThen, The Magic begins!.");
                 string[] stringArray = { "shark", "dog", "lion", "bobcat", "catfish" };
                 int string1 = Convert.ToInt32(Console.ReadLine());
@@ -35,6 +37,8 @@ namespace ArraysListsApplication
             catch (System.IndexOutOfRangeException)
 
             {
+                //message that displays when the user selects an index that doesn’t exist.
+
                 Console.WriteLine("Selected index does not exist.");
             }
 
