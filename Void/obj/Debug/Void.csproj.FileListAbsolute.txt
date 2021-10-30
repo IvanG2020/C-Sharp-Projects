@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Void\bin\Debug\Void.exe.config
+C:\Users\root\source\repos\Void\bin\Debug\Void.exe
+C:\Users\root\source\repos\Void\bin\Debug\Void.pdb
+C:\Users\root\source\repos\Void\obj\Debug\Void.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Void\obj\Debug\Void.exe
+C:\Users\root\source\repos\Void\obj\Debug\Void.pdb
