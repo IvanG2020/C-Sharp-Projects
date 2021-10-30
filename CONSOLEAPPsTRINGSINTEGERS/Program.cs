@@ -8,61 +8,38 @@ namespace CONSOLEAPPsTRINGSINTEGERS
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-
-            string[] stringArray1 = new string[] { "Rain, Mortal Kombat", "Fox, SpaceFox", "CT, Counter-Strike", "Bill Gates, Apple" };
-            Console.WriteLine("Please select an index of the array 0-3: ");
-            int selection = Convert.ToInt32(Console.ReadLine());
-
-            if (selection > 3 || selection < 0)
+            try
             {
-                Console.WriteLine("Please try again. Select an index between 0 and 3");
+                int[] numbers = { 10, 8, 6 };
+                Console.WriteLine("Please enter a number:");
+                int number = Convert.ToInt32(Console.ReadLine());
+                int divide;
+
+                foreach (int items in numbers)
+                {
+                    divide = items / number;
+                    Console.WriteLine(divide);
+                }
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("Please type a whole number");
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Please don't divide by zero.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
                 Console.ReadLine();
             }
-            else
-            {
-                Console.WriteLine(stringArray1[selection]);
-                Console.ReadLine();
-            }
-
-
-
-            int[] numArray = new int[] { 26, 10, 7, 27, 6 };
-            Console.WriteLine("Please select an index of the array: ");
-            int selection1 = Convert.ToInt32(Console.ReadLine());
-
-            if (selection1 > 4 || selection < 0)
-            {
-                Console.WriteLine("Please try again. Select an index between 0 and 4");
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine(numArray[selection1]);
-                Console.ReadLine();
-            }
-
-            List<string> stringList = new List<string>();
-            stringList.Add("Pikachu");
-            stringList.Add("Eevee");
-            stringList.Add("Jigglypuff");
-            stringList.Add("Squirtle");
-            stringList.Add("Bulbasaur");
-            Console.WriteLine("Hello, please select an index of the pokemon array: ");
-            int selection2 = Convert.ToInt32(Console.ReadLine());
-
-            if (selection2 > 4 || selection < 0)
-            {
-                Console.WriteLine("Please try again. Select an index between 0 and 4");
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine(stringList[selection2]);
-                Console.ReadLine();
-            }
+            Console.ReadLine();
         }
-
     }
 }
