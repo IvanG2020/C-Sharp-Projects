@@ -8,20 +8,18 @@ namespace Method2
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            NewClass newClass = new NewClass();
+            int opInt = 15;
+            Math.mathTime(opInt);
 
-            Console.WriteLine("Enter a number to be divided by two");
-            int usersInput = Convert.ToInt32(Console.ReadLine());
+            decimal opDec = 22.57m;
+            Math.mathTime(opDec);
 
-            newClass.numberOne(usersInput);
+            string opString = "32";
+            Math.mathTime(opString);
 
-            Console.WriteLine(newClass);
             Console.ReadLine();
-
-
-
         }
     }
 }
