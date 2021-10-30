@@ -9,6 +9,6 @@ namespace Method2
     static class ClassTwo
     {
         public static string fName = "Ivan";
-        public static string lName = "Galas";
+        public static string lName = "G";
     }
 }
