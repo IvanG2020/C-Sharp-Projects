@@ -20,6 +20,8 @@ namespace ArraysListsApplication
                 Console.WriteLine("The value of that index is: " + stringArray[string1]);
                 Console.ReadLine();
 
+
+
                 Console.WriteLine("Select an index from 0 to 4. \nThen, WHAT WILL YOU PICK?.");
                 int[] numArray = { 5, 21, 19, 86, 12 };
                 int input = int.Parse(Console.ReadLine());
