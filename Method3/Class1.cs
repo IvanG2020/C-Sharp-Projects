@@ -8,20 +8,23 @@ namespace Method3
 {
     public class MathOps
     {
-        public int MathMethod(int num1, string answer)
+       public int num1 { get; set; }
+       public int num2 { get; set; }
+        public int MathMethod(int num1, int num2 = 15)
         {
-            int result = 0;
-            if (answer == "")
-            {
-                result = num1 + 10;
+            //int result = 0;
+            //if (answer == "")
+            //{
+            //    result = num1 + 10;
 
-            }
-            else
-            {
-                int num2 = Convert.ToInt32(answer);
-                result = num1 + num2 + 10;
-            }
-            return result;
+            //}
+            //else
+            //{
+            //    int num2 = Convert.ToInt32(answer);
+            
+
+            int result = num1 + num2;
+               return result;
 
         }
 
