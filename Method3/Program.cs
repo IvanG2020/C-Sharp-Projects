@@ -21,6 +21,8 @@ namespace Method3
 
             Console.WriteLine("Thank you for stopping by!");
 
+            Console.ReadLine();
+
         }
     }
 }
