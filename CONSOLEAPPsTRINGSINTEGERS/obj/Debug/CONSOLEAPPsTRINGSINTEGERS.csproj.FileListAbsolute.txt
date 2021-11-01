@@ -5,3 +5,10 @@ C:\Users\root\source\repos\CONSOLEAPPsTRINGSINTEGERS\bin\Debug\CONSOLEAPPsTRINGS
 C:\Users\root\source\repos\CONSOLEAPPsTRINGSINTEGERS\bin\Debug\CONSOLEAPPsTRINGSINTEGERS.pdb
 C:\Users\root\source\repos\CONSOLEAPPsTRINGSINTEGERS\obj\Debug\CONSOLEAPPsTRINGSINTEGERS.exe
 C:\Users\root\source\repos\CONSOLEAPPsTRINGSINTEGERS\obj\Debug\CONSOLEAPPsTRINGSINTEGERS.pdb
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\bin\Debug\CONSOLEAPPsTRINGSINTEGERS.exe.config
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\bin\Debug\CONSOLEAPPsTRINGSINTEGERS.exe
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\bin\Debug\CONSOLEAPPsTRINGSINTEGERS.pdb
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\obj\Debug\CONSOLEAPPsTRINGSINTEGERS.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\obj\Debug\CONSOLEAPPsTRINGSINTEGERS.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\obj\Debug\CONSOLEAPPsTRINGSINTEGERS.exe
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\CONSOLEAPPsTRINGSINTEGERS\obj\Debug\CONSOLEAPPsTRINGSINTEGERS.pdb

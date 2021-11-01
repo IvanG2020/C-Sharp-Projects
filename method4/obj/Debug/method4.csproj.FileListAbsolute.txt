@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\method4\bin\Debug\method4.exe.config
+C:\Users\root\source\repos\method4\bin\Debug\method4.exe
+C:\Users\root\source\repos\method4\bin\Debug\method4.pdb
+C:\Users\root\source\repos\method4\obj\Debug\method4.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\method4\obj\Debug\method4.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\method4\obj\Debug\method4.exe
+C:\Users\root\source\repos\method4\obj\Debug\method4.pdb
