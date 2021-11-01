@@ -13,6 +13,10 @@ namespace Abstract
             Employee employee = new Employee("Sample", "Student");
             employee.SayName();
             Console.ReadLine();
+
+            IQuittable Jeremy = new Employee("Ivan", "Galas");
+            Jeremy.Quit("I found a new job. Thanks Tech Academy!");
+            Console.ReadLine();
         }
     }
 }
