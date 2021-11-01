@@ -23,19 +23,20 @@ namespace Void
         Console.WriteLine("Second number is " + num2 + ". Adding numbers together...");
         int result = num1 + num2;
         Console.WriteLine("The result is " + result);
-            Console.ReadLine();
+            
 
         //call class method specifying parameter names
         math.add1(num1, num2);
+            Console.ReadLine();
 
 
 
 
-        //Console.WriteLine("Doing more math...");
-        ////passing in integers as plain integers
-        //Math.add1(15, 25);
-        ////passing in integer variables by name
-        //Math.add1(num1 = 20, num2 = 50);
-    }
+            //Console.WriteLine("Doing more math...");
+            ////passing in integers as plain integers
+            //Math.add1(15, 25);
+            ////passing in integer variables by name
+            //Math.add1(num1 = 20, num2 = 50);
+        }
 }
 }
