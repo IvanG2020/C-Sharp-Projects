@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    class Employee
+    public class Employee : Person
     {
+        public Employee(string fn, string ln)
+        {
+            FirstName = fn;
+            LastName = ln;
+        }
+
+        public override void SayName()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
