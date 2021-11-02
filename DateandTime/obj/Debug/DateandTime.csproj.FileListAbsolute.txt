@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\DateandTime\bin\Debug\DateandTime.exe.config
+C:\Users\root\source\repos\DateandTime\bin\Debug\DateandTime.exe
+C:\Users\root\source\repos\DateandTime\bin\Debug\DateandTime.pdb
+C:\Users\root\source\repos\DateandTime\obj\Debug\DateandTime.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\DateandTime\obj\Debug\DateandTime.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\DateandTime\obj\Debug\DateandTime.exe
+C:\Users\root\source\repos\DateandTime\obj\Debug\DateandTime.pdb
