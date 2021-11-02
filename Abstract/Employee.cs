@@ -6,24 +6,51 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
-        public Employee(string fn, string ln)
-        {
-            FirstName = fn;
-            LastName = ln;
-        }
+        public int Id { get; set; }
 
-        public void Quit(string reason)
-        {
-            Console.WriteLine("I Quit! Don't forget to mail my check.");
-            Console.WriteLine(reason);
-            Console.WriteLine("\t- {0}", FirstName);
-        }
+        public List<T> things { get; set; }
 
         public override void SayName()
         {
-            Console.WriteLine("{0} {1}", FirstName, LastName);
+            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+        }
+        public void Quit()
+        {
+            Console.WriteLine("Do you want to exit? (y/n)");
+            char yesOrNo = Convert.ToChar(Console.ReadLine());
+            if (yesOrNo == 'y')
+            {
+                Console.WriteLine("Goodbye!");
+                System.Environment.Exit(0);
+            }
+            else if (yesOrNo == 'n')
+            {
+                Console.WriteLine("okie dokie...");
+            }
+        }
+        public static bool operator ==(Employee<T> firstEmployee, Employee<T> secondEmployee)
+        {
+            if (firstEmployee.Id == secondEmployee.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        public static bool operator !=(Employee<T> firstEmployee, Employee<T> secondEmployee)
+        {
+            if (firstEmployee.Id != secondEmployee.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

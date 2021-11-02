@@ -8,6 +8,7 @@ namespace Abstract
 {
     interface IQuittable
     {
-        void Quit(string reason);
+        void Quit();
+
     }
 }
