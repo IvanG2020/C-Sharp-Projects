@@ -4,3 +4,7 @@ C:\Users\root\source\repos\ConstVar\bin\Debug\ConstVar.pdb
 C:\Users\root\source\repos\ConstVar\obj\Debug\ConstVar.csproj.CoreCompileInputs.cache
 C:\Users\root\source\repos\ConstVar\obj\Debug\ConstVar.exe
 C:\Users\root\source\repos\ConstVar\obj\Debug\ConstVar.pdb
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.exe
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.pdb

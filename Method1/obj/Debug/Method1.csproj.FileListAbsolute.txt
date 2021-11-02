@@ -1,0 +1,2 @@
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\Method1\obj\Debug\Method1.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\Method1\obj\Debug\Method1.csproj.CoreCompileInputs.cache
