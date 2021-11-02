@@ -6,18 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConstVar
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("What is your name?");
-            var newPlayer = Console.ReadLine();
-            const string myName = "Ivan";
-            Console.WriteLine("Hello, {0}, my name is {1}, welcome to my program!", newPlayer, myName);
+            Student student = new Student();
             Console.ReadLine();
-
-
-
         }
     }
 }

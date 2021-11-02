@@ -8,3 +8,6 @@ C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.cspr
 C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.csproj.CoreCompileInputs.cache
 C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.exe
 C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\obj\Debug\ConstVar.pdb
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\bin\Debug\ConstVar.exe.config
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\bin\Debug\ConstVar.exe
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\ConstVar\bin\Debug\ConstVar.pdb
