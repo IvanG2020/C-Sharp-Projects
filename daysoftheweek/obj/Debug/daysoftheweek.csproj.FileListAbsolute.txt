@@ -1,0 +1,7 @@
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\bin\Debug\daysoftheweek.exe.config
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\bin\Debug\daysoftheweek.exe
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\bin\Debug\daysoftheweek.pdb
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\obj\Debug\daysoftheweek.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\obj\Debug\daysoftheweek.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\obj\Debug\daysoftheweek.exe
+C:\Users\root\Documents\GitHub\C-Sharp-Projects\daysoftheweek\obj\Debug\daysoftheweek.pdb
