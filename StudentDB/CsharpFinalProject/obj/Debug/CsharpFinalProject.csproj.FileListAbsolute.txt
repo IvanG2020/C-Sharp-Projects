@@ -1,0 +1,11 @@
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\CsharpFinalProject.exe.config
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\CsharpFinalProject.exe
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\CsharpFinalProject.pdb
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\EntityFramework.dll
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\EntityFramework.xml
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\obj\Debug\CsharpFinalProject.csprojAssemblyReference.cache
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\obj\Debug\CsharpFinalProject.csproj.CopyComplete
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\obj\Debug\CsharpFinalProject.exe
+C:\Users\kessl\OneDrive\Desktop\The-Tech-Academy-C-Sharp-Coding-Projects\CsharpFinalProject\CsharpFinalProject\obj\Debug\CsharpFinalProject.pdb
